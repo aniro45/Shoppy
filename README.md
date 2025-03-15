@@ -1,10 +1,10 @@
-# ShopEase
+# Shoppy
 
 ## Installation
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/ShopEase.git
+    git clone https://github.com/aniro45/Shoppy.git
     cd ShopEase
     ```
 
